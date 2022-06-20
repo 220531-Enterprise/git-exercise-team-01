@@ -1,2 +1,2 @@
 Hello world!
-Replace me!
+you have been replaced.
